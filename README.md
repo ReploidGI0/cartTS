@@ -1,7 +1,23 @@
-# React + TypeScript + Vite
+# Carrito de Compras React + TypeScript + Vite
 
-Esta es una práctica usando React, Vite y JS. Consiste en el módulo de productos y carrito de compra de una tienda enfocada en Model Kits.
+Este proyecto consiste en el módulo de productos y carirto de compra de una tienda que vende Model Kits. Utilizando componentes hooks, custom hooks y localStorage, para que el carrito de compras quede almacenado en el navegador
 
-Se hace uso de componentes, hooks y custom hooks. De igual manera se utiliza localStorage para que el carrito se almacene en el navegador.
+Algunas de las cosas que se aprendieron con este proyecto son:
 
-NO ES UN PROYECTO COMPLETO, SOLO SON LOS APARTADOS MENCIONADOS Y NO SE REALIZA NINGÚN PROCESO DE COMPRA.
+### <a  /> LocalStorage
+Se utilizó localStorage para almacenar los datos de los productos agregados al carrito
+
+### <a  /> Modularidad y Reusabilidad con Componentes
+La reutilización de componentes en este proyecto fue esencialmente necesaria para mostrar los productos y los productos dentro del carrito.
+
+### <a  /> Custom Hooks
+Dentro del custom hook, se encuentra la lógica para agregar, eliminar o aumentar la cantidad de elementos agregados al carrito. De igual manera se encuentran varios hooks como useEffect para la parte del localStorage, useMemo para states derivados  y useState para el carrito
+
+### <a  /> Optimización del Rendimiento (Performance)
+Mediante el uso de operadores ternarios, se establece si se renderiza un componente o no, lo que puede mejorar el rendimiento de las aplicaciones web.
+
+### <a  /> Tipado Estricto con TypeScript
+Se definieron tipos para los props de los componentes y funciones
+
+### <a  /> Framework CSS
+Se utilizó Bootstrap para manejar los estilos de la página
