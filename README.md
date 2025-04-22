@@ -21,3 +21,9 @@ Se definieron tipos para los props de los componentes y funciones
 
 ### <a  /> Framework CSS
 Se utilizó Bootstrap para manejar los estilos de la página
+
+---
+
+![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito1.PNG "Interfaz")
+![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito2.PNG "Interfaz")
+![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito3.PNG "Interfaz")
