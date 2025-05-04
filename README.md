@@ -25,7 +25,7 @@ Se definieron tipos para los props de los componentes y funciones
 ### <a  /> Framework CSS
 Se utilizó Bootstrap para manejar los estilos de la página
 
-* 📷[Screenshots](#screenshots)*
+*📷[Screenshots](#screenshots)*
 
 ---
 
