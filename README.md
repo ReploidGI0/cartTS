@@ -1,5 +1,8 @@
-# Carrito de Compras React + TypeScript + Vite
+# Carrito de Compras / Shopping Cart - React + TypeScript + Vite
+*📓 [Español](#inicio)*
+*📓 [English](#start)*
 
+### <a id="inicio" />
 Este proyecto consiste en el módulo de productos y carirto de compra de una tienda que vende Model Kits. Utilizando componentes hooks, custom hooks y localStorage, para que el carrito de compras quede almacenado en el navegador
 
 Algunas de las cosas que se aprendieron con este proyecto son:
@@ -27,3 +30,5 @@ Se utilizó Bootstrap para manejar los estilos de la página
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito1.PNG "Interfaz")
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito2.PNG "Interfaz")
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito3.PNG "Interfaz")
+
+### <a id="start" />
