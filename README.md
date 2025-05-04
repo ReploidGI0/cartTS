@@ -27,8 +27,6 @@ Se utilizó Bootstrap para manejar los estilos de la página
 
 *📷[Screenshots](#screenshots)*
 
----
-
 # Shopping Cart - React + TypeScript + Vite
 
 ### <a id="start" />
@@ -56,7 +54,8 @@ Types were defined for component and function props
 Bootstrap was used to handle the page styles
 
 ---
-### <a id="screenshots" /> Screenshots
+### <a id="screenshots" /> 
+# Screenshots
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito1.PNG "Interfaz")
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito2.PNG "Interfaz")
 ![Interfaz](https://github.com/ReploidGI0/cartTS/blob/main/images/carrito3.PNG "Interfaz")
